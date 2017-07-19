@@ -1,0 +1,7 @@
+pin 2  = relay 1 (r1) left motor direction
+pin 4 = relay 2 (r2)      right    motor direction
+pin 7 = relay 3 (r3)     ramp     motor direction
+
+pin3 = pwm left motor  (r1
+pin5 = pwm right motor r2
+pin6 = pwm ramp motor r3
